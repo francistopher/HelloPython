@@ -1,3 +1,11 @@
-# Hello Python
+# Rock Paper Scissor
 
-more like hello tensorflow
+... shoot
+
+## To do
+
+- Win
+- Draw
+- Rock
+- Paper
+- Scissor
